@@ -37,7 +37,7 @@ button {
   padding: 12px 30px;
   border: none;
   border-radius: 30px;
-  background: cyan;
+  background: rgb(170, 160, 144);
   color: black;
   font-size: 16px;
   cursor: pointer;
